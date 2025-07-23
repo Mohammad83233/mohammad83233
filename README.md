@@ -62,8 +62,7 @@ Thanks for stopping by! 💻
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammad83233&show_icons=true&theme=midnight-purple&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad83233&layout=compact&theme=midnight-purple&langs_count=8" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohammad83233&theme=midnight-purple&hide_border=true" height="180" />
-</div>
+  </div>
 
 ---
 
