@@ -85,9 +85,10 @@ Thanks for stopping by! 💻
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-nisham">
-    <img src="https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/mohammad-nisham-b151022b4-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/mohammad-nisham-b151022b4" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Nisham-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
   <a href="mailto:nishamnisham659@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-nishamnisham659@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
