@@ -1,2 +1,8 @@
-*.hack linguist-language=PHP
-*.hh linguist-language=PHP
+# Exclude Hack-related files from language stats
+*.hack linguist-detectable=false
+*.hh linguist-detectable=false
+*.php linguist-detectable=false
+
+# Optionally ignore a folder if you're unsure where Hack is being detected
+dist/* linguist-detectable=false
+
